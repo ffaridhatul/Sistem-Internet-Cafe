@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\WarNet\WarNet\bin\Debug\WarNet.exe.config
+C:\Users\Lenovo\source\repos\WarNet\WarNet\bin\Debug\WarNet.exe
+C:\Users\Lenovo\source\repos\WarNet\WarNet\bin\Debug\WarNet.pdb
+C:\Users\Lenovo\source\repos\WarNet\WarNet\obj\Debug\WarNet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WarNet\WarNet\obj\Debug\WarNet.MainForm.resources
+C:\Users\Lenovo\source\repos\WarNet\WarNet\obj\Debug\WarNet.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WarNet\WarNet\obj\Debug\WarNet.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WarNet\WarNet\obj\Debug\WarNet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WarNet\WarNet\obj\Debug\WarNet.exe
+C:\Users\Lenovo\source\repos\WarNet\WarNet\obj\Debug\WarNet.pdb
